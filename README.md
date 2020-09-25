@@ -1,6 +1,8 @@
 ## Ben Lynch
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a committed, hardworking and perservering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone. 
+
+I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. Past projects I have worked on include prototypes for a physics equation calculator and a website for a community choir.
 
 ## Projects
 
