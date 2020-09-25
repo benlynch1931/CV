@@ -42,6 +42,21 @@ Being involved in a variety of musical ensembles, you build communication skills
 In numerous situations, I have had to re-evaluate my tone and approach towards customers as they have not responded as I originally assumed. For instance, if an individual is heavily under the influence of alcohol or drugs, I have adapted to talk in a slower, more calming tone to ensure them I am not hostile. Likewise, if A customer is abrupt or unhappy, you must adapt to become apologetic or empathetic depending on the problem.
 
 
+#### Problem Solver
+
+Whilst studying Physics A Level I excelled at problem-solving and the questioning of theories. Completing questions always left me with a sense of achievement as I obtained the answer and correctly identified the method needed to solve the problem.
+
+#### Team-Driven
+
+I have always thrived when working in a team. I consistently strive to contribute wherever possible, whether it being able to bounce ideas off one another or being motivated to keep up with teammates, As evidenced by my participation in clubs and my employment as a bartender in busy pubs. The bar is a fast-paced environment where any lack of effort is noticeable and will always negatively impact anybody else who is working.
+
+#### Committed
+
+Through my life I have been a long-standing member of various clubs and ensembles, including the Somerset County Youth Choirs, and Cheddar Valley Music Club. I have been apart of the Cheddar Valley Brass Bands since I was 7 years old, rehearsing every Wednesday during term-time, with at least one performance per term.
+
+
+
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
