@@ -8,8 +8,8 @@ I am keen to kickstart my career as a Software Developer and begin working on pr
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **student-directory**        | commandline app that manages students at villans Academy | Ruby, CMD |
+| **FizzBuzz** | A ruby app that runs the FizzBuzz game | Ruby, RSpec       |
 
 ## Experience
 **TransVault (ISV Company), Clevedon** ('16)  
