@@ -13,21 +13,27 @@ I am keen to kickstart my career as a Software Developer and begin working on pr
 
 ## Experience
 
-**Crown Inn, Churchill** (TO CONFIRM)  
-_Your job title_
+**TransVault (ISV Company), Clevedon** ('16)
 
-- Any experience relevent to software development
+_School Work Experience_
+
+- I spent a week rotating around the departments, whilst experiencing an office environment. I particularly enjoyed the Product Management and Marketing Departments. During this week, I began creating a prototype of a Restaurant Management software product. I then pitched this to colleagues at TransVault as if it were a real life meeting.
+
+**Crown Inn, Churchill** (TO CONFIRM)  
+_Bartender_
+
+- I secured a job here when I worked on resetting the till from The Crown Inn, Axbridge and worked on inplementing all the information needed for this new pub. It was a long haul, but taught me the importance of committment and time management when working towards a deadline.
 
 **The Crown Inn, Axbridge** (April '19 - July '20)  
-_Bar Supervisor (February '20 - July '20)
-Bartender (April '19 - January '20)_
+_Bar Supervisor (February '20 - July '20)_
+
+_Bartender (April '19 - January '20)_
 
 - As an additional role to being a bartender or supervisor, I was the person who sorted out the till and any issues we ran into or any menu updates that needed putting in.
 - I took the initiative to be the one to set up the new Wi-Fi router for the pub, which took longer than expected due to miscommunication with the various internet provider companies, so it was a chance for me to actively problem solve in the real world.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Leadership
 
