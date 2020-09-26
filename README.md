@@ -23,9 +23,9 @@ _Bartender_
 - I secured a job here when I worked on resetting the till from The Crown Inn, Axbridge and worked on inplementing all the information needed for this new pub. It was a long haul, but taught me the importance of committment and time management when working towards a deadline.
 
 **The Crown Inn, Axbridge** (April '19 - July '20)  
-_Bar Supervisor (February '20 - July '20)_
+_Bar Supervisor (Feb '20 - July '20)_
 
-_Bartender (April '19 - January '20)_
+_Bartender (April '19 - Jan '20)_
 
 - As an additional role to being a bartender or supervisor, I was the person who sorted out the till and any issues we ran into or any menu updates that needed putting in.
 - I took the initiative to be the one to set up the new Wi-Fi router for the pub, which took longer than expected due to miscommunication with the various internet provider companies, so it was a chance for me to actively problem solve in the real world.
