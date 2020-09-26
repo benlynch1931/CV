@@ -12,9 +12,7 @@ I am keen to kickstart my career as a Software Developer and begin working on pr
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
-
-**TransVault (ISV Company), Clevedon** ('16)
-
+**TransVault (ISV Company), Clevedon** ('16)  
 _School Work Experience_
 
 - I spent a week rotating around the departments, whilst experiencing an office environment. I particularly enjoyed the Product Management and Marketing Departments. During this week, I began creating a prototype of a Restaurant Management software product. I then pitched this to colleagues at TransVault as if it were a real life meeting.
