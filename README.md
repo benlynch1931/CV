@@ -67,22 +67,24 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September '20 - Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Strode College, BA16 0AB (September '17 - July '19)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A Levels: Maths A*, Physics A*, Geology A*
+- AS Levels: Music B
+- 
 
-#### Any other qualifications
+#### Kings of Wessex Academy, BS27 3AQ (September '14 - July '17)
 
-That in some arguable way make you a better software developer or well-rounded person
+- GCSEs: 4 A*, 4 A, 2 B
+- NOT including 9 in Maths and 5 in English Language
+- 
 
 ## Hobbies
 
