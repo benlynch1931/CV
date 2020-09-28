@@ -69,6 +69,7 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 #### Makers Academy (September '20 - Present)
 
+- 10% acceptance rate
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
