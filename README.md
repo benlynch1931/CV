@@ -1,14 +1,16 @@
 ## Ben Lynch
 
-I am a committed, hardworking and perservering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone. 
+I am a committed, hardworking and perservering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
 
 I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. Past projects I have worked on include prototypes for a physics equation calculator and a website for a community choir.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech Stack        |
 | ---------------------------- | ----------------- | ----------------- |
-| **student-directory**        | commandline app that manages students at villans Academy | Ruby, CMD |
+| [**Le Chicken**](https://github.com/benlynch1931/Le-Chicken) | Language Learning RPG app (tutorial ONLY) | JavaScript, React Native, Jest, Cypress, Expo |
+| **Acebook** <br>[frontend](https://github.com/benlynch1931/Acebook_frontend) [backend](https://github.com/benlynch1931/acebook-quixotic) | Clone of Facebook using API backend | Ruby, Ruby on Rails, JavaScript, React |
+| **student-directory**        | commandline app that manages students at villains Academy | Ruby, CMD |
 | **FizzBuzz** | A ruby app that runs the FizzBuzz game | Ruby, RSpec       |
 
 ## Experience
@@ -79,13 +81,13 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 - A Levels: Maths A*, Physics A*, Geology A*
 - AS Levels: Music B
-- 
+-
 
 #### Kings of Wessex Academy, BS27 3AQ (September '14 - July '17)
 
 - GCSEs: 4 A*, 4 A, 2 B
 - NOT including 9 in Maths and 5 in English Language
-- 
+-
 
 ## Hobbies
 
