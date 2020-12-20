@@ -74,7 +74,7 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 ## Education
 
-#### <a name='#Makers'>Makers Academy (September '20 - December '20)</a>
+#### <a name='Makers'>Makers Academy (September '20 - December '20)</a>
 
 
 - 10% acceptance rate
