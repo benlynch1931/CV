@@ -14,15 +14,20 @@ I am keen to kickstart my career as a Software Developer and begin working on pr
 | **FizzBuzz** | A ruby app that runs the FizzBuzz game | Ruby, RSpec       |
 
 ## Experience
+
+**Makers Academy** (September '20 - December '20)
+
+- See [here](#Makers)
+
 **TransVault (ISV Company), Clevedon** ('16)  
 _School Work Experience_
 
 - I spent a week rotating around the departments, whilst experiencing an office environment. I particularly enjoyed the Product Management and Marketing Departments. During this week, I began creating a prototype of a Restaurant Management software product. I then pitched this to colleagues at TransVault as if it were a real life meeting.
 
-**Crown Inn, Churchill** (TO CONFIRM)  
+**Crown Inn, Churchill** (September '20 - present)  
 _Bartender_
 
-- I secured a job here when I worked on resetting the till from The Crown Inn, Axbridge and worked on inplementing all the information needed for this new pub. It was a long haul, but taught me the importance of committment and time management when working towards a deadline.
+- I secured a job here when I worked on resetting the till from The Crown Inn, Axbridge and worked on implementing all the information needed for this new pub. It was a long haul, but taught me the importance of commitment and time management when working towards a deadline.
 
 **The Crown Inn, Axbridge** (April '19 - July '20)  
 _Bar Supervisor (Feb '20 - July '20)_
@@ -69,19 +74,19 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 ## Education
 
-#### Makers Academy (September '20 - Present)
+#### Makers Academy (September '20 - December '20)
+<a href='#Makers'></a>
 
 - 10% acceptance rate
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, React Native, HTML, CSS, JSX
+- RSpec, Capybara, Jasmine, Jest, Cypress
 
 #### Strode College, BA16 0AB (September '17 - July '19)
 
-- A Levels: Maths A*, Physics A*, Geology A*
+- A Levels: Maths A\*, Physics A\*, Geology A\*
 - AS Levels: Music B
--
 
 #### Kings of Wessex Academy, BS27 3AQ (September '14 - July '17)
 
