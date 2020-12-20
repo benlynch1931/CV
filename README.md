@@ -17,7 +17,7 @@ I am keen to kickstart my career as a Software Developer and begin working on pr
 
 **Makers Academy** (September '20 - December '20)
 
-- See [here](#Makers)
+- See [here](#Education)
 
 **TransVault (ISV Company), Clevedon** ('16)  
 _School Work Experience_
@@ -72,7 +72,7 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 
 
-## Education
+## <a name='Education'>Education</a>
 
 #### <a name='Makers'>Makers Academy (September '20 - December '20)</a>
 
