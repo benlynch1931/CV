@@ -97,4 +97,11 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+#### Building / Set Building
+
+- I understand the importance of deadlines and structure. Also how vital communication is when working in a team to ensure everyone is aware of each task at hand.
+
+#### Music
+
+- I have played various instruments for many years, so have a high-level of commitment.
+- With these instruments, I have been a member of a plethora of ensembles, so have enhanced my communication and team-player skills over the years
