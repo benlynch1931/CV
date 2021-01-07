@@ -1,8 +1,8 @@
 ## Ben Lynch
 
-I am a committed, hardworking and persevering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
+I am a committed, hardworking and persevering individual; currently studying Software Development and a recent graduate of Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
 
-I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. Past projects I have worked on include prototypes for a physics equation calculator and a website for a community choir.
+Projects I have worked on and am working on include a Knitting Chart web application and a website for a community choir. I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. 
 
 ## Projects
 
