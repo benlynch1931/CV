@@ -2,7 +2,13 @@
 
 I am a committed, hardworking and persevering individual; currently studying Software Development and a recent graduate of Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
 
-Projects I have worked on and am working on include a Knitting Chart web application and a website for a community choir. I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. 
+Projects I have worked on and am working on include a Knitting Chart web application and a website for a community choir. 
+
+I frequently delve into solve interesting and complex problems, and cannot wait to do it on a daily basis.
+
+I have had a passion for technology for as long as I can remember; First beginnig to code back in 2012 - nothing fancy, just a boring static HTML page with lots of pictures of cars... - and have grown to build bigger and more complex projects. 
+ 
+Helping people undoubtedly makes me feel amazing about myself and bring joy to my life, and every piece of code I write has an end goal of helping others, whether it creates an easier and more pleasant user experience, or gives them access to a process that wasn't originally available. To me, coding isn't just a task or job, it's a passion that has more to it than meets the eye. Hence, I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people.
 
 ## Projects
 
