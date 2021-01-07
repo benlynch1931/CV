@@ -1,6 +1,6 @@
 ## Ben Lynch
 
-I am a committed, hardworking and perservering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
+I am a committed, hardworking and persevering individual; currently studying Software Development at Makers Academy. I endeavour to take criticism positively, and use it to better my performance and skills. I enjoy learning and stepping out of my comfort zone.
 
 I am keen to kickstart my career as a Software Developer and begin working on projects that impact the lives of people. Past projects I have worked on include prototypes for a physics equation calculator and a website for a community choir.
 
@@ -50,7 +50,7 @@ Being a Bar Supervisor required me to lead via example and show how things shoul
 
 Working in pubs and restaurants, it is always important to maintain and enhance the rapport you build with customers. For example, knowing the regular drinkers by name and knowing what they drink so you can anticipate their needs. In top of this, it creates a healthy and hospitable environment which people are more than to dine in.
 
-Being involved in a variety of musical ensembles, you build communication skills not by talking, but by listening and being aware of others. It is important that you stay in tune and in time with one another to create a performance worth watching. This is reflected as a bartender as it is customary for you as the server to listen to the customer to make them feel welcome. Not only this, but having a singing background has taught me guarantee I have excellent diction and projection, so when speaking to customers, they understand me and aren’t left confused.
+Being involved in a variety of musical ensembles, you build communication skills not by talking, but by listening and being aware of others. It is important that you stay in tune and in time with one another to create a performance worth watching. This is reflected as a bartender as it is customary for you as the server to listen to the customer to make them feel welcome. 
 
 
 #### Ability to Adapt
@@ -99,7 +99,7 @@ Through my life I have been a long-standing member of various clubs and ensemble
 
 #### Building / Set Building
 
-- I understand the importance of deadlines and structure. Also how vital communication is when working in a team to ensure everyone is aware of each task at hand.
+- I understand the importance of deadlines and structure. Also, how vital communication is when working in a team to ensure everyone is aware of each task at hand.
 
 #### Music
 
