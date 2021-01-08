@@ -114,5 +114,6 @@ _School Work Experience_
 
 # <a name='Contact'>Contact Me</a>
 
-Mobile: 07526 789 279
+Mobile: 07526 789279
+
 Email: ben.lynch1931@gmail.com
