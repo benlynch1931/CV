@@ -18,6 +18,8 @@ Helping people undoubtedly makes me feel amazing about myself and bring joy to m
 
 ## Skills
 
+_I have linked [here](https://drive.google.com/file/d/16ZiUAQcDAD8MbCSNxeQTbas6QAriSpD3/view?usp=sharing) to the feedback I received after completing a code review. It provides a detailed summary of how I did during the review._
+
 
 #### Leadership
 
