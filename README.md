@@ -14,7 +14,7 @@ Helping people undoubtedly makes me feel amazing about myself and bring joy to m
 | [**Knitting Chart**](https://github.com/benlynch1931/Knitting-Chart) | Web app designed from specifications from a client so fulfill their wishes. It is linked to an API and database, so the user can save their changes | JavaScript, React, Ruby on Rails, PostgreSQL |
 | [**Le Chicken**](https://github.com/benlynch1931/Le-Chicken) | Language Learning RPG app (tutorial ONLY) | JavaScript, React Native, Jest, Cypress, Expo |
 | **Acebook** <br>[frontend](https://github.com/benlynch1931/Acebook_frontend) [backend](https://github.com/benlynch1931/acebook-quixotic) | Clone of Facebook using API backend | Ruby, Ruby on Rails, JavaScript, React |
-| [**Chitter**](https://github.com/benlynch1931/chitter-frontend-app) | Clone of Twitter using a pre-built API and vanilla JavaScript | JavaScript |
+
 
 ## Skills
 
